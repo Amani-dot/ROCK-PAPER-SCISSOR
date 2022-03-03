@@ -3,7 +3,7 @@
 This is the first Game (Learn JavaScript by building 7 games) by Ania Kubov on Youtube
 
 ## Screen Shot
-![](ROCK-PAPER-SCISSOR\Screen Shot 2022-03-02 at 22.56.13.png)
+![](img/Screen%20Shot%202022-03-02%20at%2022.56.13.png)
  
 ## What i Learned
 
